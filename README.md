@@ -66,13 +66,13 @@ here, Kaggle means Kaggle dataset(which contains only english sms's) and Combine
 These are the accuracies when tried using BoW,
 
 <p align="center">
-  <img src="Image/Accuracies.JPG" width="150" title="Query Image">
+  <img src="Image/Accuracies.JPG" width="500" title="Query Image">
 </p>
 
 Accuracy obtained using LSTM model.
 
 <p align="center">
-  <img src="Image/lstm_acc.JPG" width="150" title="Query Image">
+  <img src="Image/lstm_acc.JPG" width="500" title="Query Image">
 </p>
 
 
