@@ -15,7 +15,7 @@ This is based on the context of message rather than the contact numbers, from wh
 
 ### 1. Data Aquisition
 
-Collected dataset from (kaggle)[https://www.kaggle.com/uciml/sms-spam-collection-dataset], that contains only english messages.
+Collected dataset from [kaggle](https://www.kaggle.com/uciml/sms-spam-collection-dataset), that contains only english messages.
 We also added our own dataset, collected from real world messages that is of three languages English, Hindi, Telugu. We manually labelled the data into SPAM or HAM.
 
 Dataset consists of three columns index, sms, label. label = { SPAM, HAM}
